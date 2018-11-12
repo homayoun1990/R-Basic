@@ -1,5 +1,5 @@
 # R-Basic
-This page contains examples on basic concepts of R programming. We have provided working source code on all these examples listed below.
+This page contains examples on basic concepts of R programming.
 
 However, we recommend you to write code on your own before you check them. Why? 
 
